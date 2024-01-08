@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Electron 
-- 💞️ I’m am currently working as Core PHP Dveloper in AArya Techonolgy & management
+- 💞️ I’m am currently working as Core PHP Developer in AArya Techonolgy & management
 - 📫 How to reach me ...
 
 <!---
